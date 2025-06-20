@@ -4,6 +4,6 @@ A fast Common Lisp binary serializer/deserializer
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/ajberkley/cl-binary-store.git |
-| commit  | f5f9ec8                                              |
+| commit  | 9d8b7e7                                              |
 | systems | cl-binary-store                                      |
 |---------+------------------------------------------------------|
