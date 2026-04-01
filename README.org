@@ -7,3 +7,4 @@ A fast Common Lisp binary serializer/deserializer
 | commit  | 9d8b7e7                                              |
 | systems | cl-binary-store                                      |
 |---------+------------------------------------------------------|
+ 
